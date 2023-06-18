@@ -3,6 +3,12 @@
   "displayName": "quick-properties",
   "description": "",
   "version": "0.0.1",
+  "publisher": "CodeButter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayarabis/quick-properties"
+  },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.79.0"
   },
