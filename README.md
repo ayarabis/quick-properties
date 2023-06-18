@@ -1,7 +1,5 @@
 # Quick-Properties Visual Studio Code Extension
 
-![Quick-Properties](extension-image.png)
-
 Quick-Properties is a Visual Studio Code extension specifically designed for working with `.properties` files. It enhances your productivity by providing features to help you navigate, explore, and modify properties within your workspace.
 
 ## Features
